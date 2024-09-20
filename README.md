@@ -38,7 +38,7 @@ It also covers how to deploy an application in AWS using infrastructure as code,
 
 Finally, this project also shows your skills on how to deploy a dynamic application on AWS using CI/CD pipeline and GitHub Actions.
 
-## PROJECT
+# PROJECT
 
 ![image](https://github.com/user-attachments/assets/799a4b24-2d2e-4222-ba92-efc5cc41a7aa)
 
@@ -52,9 +52,9 @@ Runners in GitHub Actions refers to the machine you want to use to build the job
 
 In this project we will use two types of runners to build our CI/CD pipeline:
 
-### GitHub hosted runner: A cloud-based virtual machine provided by GitHub for running automated workflows. We will use this machine to build our job and once we have used it to build our job the machine will go away.
+GitHub hosted runner: A cloud-based virtual machine provided by GitHub for running automated workflows. We will use this machine to build our job and once we have used it to build our job the machine will go away.
 
-### Self-hosted runner: A runner that is set up and maintained by the user on their own infrastructure for running GitHub Actions workflow. This is a machine that we will create. By machine I mean the EC2 instance we will launch, and we will use that EC2 instance to build our job.
+Self-hosted runner: A runner that is set up and maintained by the user on their own infrastructure for running GitHub Actions workflow. This is a machine that we will create. By machine I mean the EC2 instance we will launch, and we will use that EC2 instance to build our job.
 
 ### Repositories:
 
