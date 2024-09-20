@@ -34,8 +34,6 @@ This project covers how to deploy applications in AWS using core AWS services su
 
 This project also covers containerization and show your skills on how to build a docker image and push the image into amazon ECR.
 
-Here’s a corrected version of your sentence:
-
 It also covers how to deploy an application in AWS using infrastructure as code, with Terraform as the tool we used.
 
 Finally, this project also shows your skills on how to deploy a dynamic application on AWS using CI/CD pipeline and GitHub Actions.
