@@ -1,5 +1,7 @@
 # PROJECT: GITHUB ACTIONS  TERRAFORM / DOCKER / ECS
 
+![image](https://github.com/user-attachments/assets/799a4b24-2d2e-4222-ba92-efc5cc41a7aa)
+
 Full CI/CD project that walks you from beginning to end on how to deploy an application on AWS.
 
 This is an excellent project to present in your resume, because this project covers many aspects of the skills you need to know as a Cloud and DevOps engineer.
@@ -39,8 +41,6 @@ It also covers how to deploy an application in AWS using infrastructure as code,
 Finally, this project also shows your skills on how to deploy a dynamic application on AWS using CI/CD pipeline and GitHub Actions.
 
 # PROJECT
-
-![image](https://github.com/user-attachments/assets/799a4b24-2d2e-4222-ba92-efc5cc41a7aa)
 
 We will start now start the project and create all the jobs in the image above in order to build our CI/CD pipeline.
 
