@@ -4,8 +4,6 @@
 
 Full CI/CD project that walks you from beginning to end on how to deploy an application on AWS.
 
-This is an excellent project to present in your resume, because this project covers many aspects of the skills you need to know as a Cloud and DevOps engineer.
-
 This project covers how to deploy applications in AWS using core AWS services such as:
 
 •	VPC
@@ -32,11 +30,11 @@ This project covers how to deploy applications in AWS using core AWS services su
 
 •	Certificate Manager
 
-This project also covers containerization and show your skills on how to build a docker image and push the image into amazon ECR.
+This project also covers containerization and show how to build a docker image and push the image into amazon ECR.
 
-It also covers how to deploy an application in AWS using infrastructure as code, with Terraform as the tool we used.
+It also covers how to deploy an application in AWS using infrastructure as code, with Terraform as the tool used.
 
-Finally, this project also shows your skills on how to deploy a dynamic application on AWS using CI/CD pipeline and GitHub Actions.
+Finally, this project also shows how to deploy a dynamic application on AWS using CI/CD pipeline and GitHub Actions.
 
 # PROJECT
 
